@@ -1,0 +1,25 @@
+{
+  "name": "vue-sentinel",
+  "version": "0.0.1",
+  "description": "Flexible and Robust authentication and authorization for Vuejs applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aomitayo/vue-sentinel.git"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "authentication",
+    "authorization"
+  ],
+  "author": "adedayo.omitayo@flowswift.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aomitayo/vue-sentinel/issues"
+  },
+  "homepage": "https://github.com/Aomitayo/vue-sentinel#readme"
+}
